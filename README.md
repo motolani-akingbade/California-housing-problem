@@ -28,6 +28,13 @@
 
 
 
+## Conclusion
+
+### Considering higher income areas tend to have stronger demand for pricier properties, the median income model turned shown to be the best predictor of house prices. Although this component is less significant than income, the number of households exhibited a slight link, suggesting that locations with more households may have higher housing demand. The population model showed the lowest association, indicating that population size is a poor predictor in this context and has minimal bearing on property prices. In the end, the main variable influencing house prices is income.
+
+
+
+
 ## Acknowledgements
 
 This data was initially featured in the following paper:
