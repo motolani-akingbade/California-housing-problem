@@ -10,7 +10,7 @@
 
 ## Goal of the report
 
-### The primary goal of this report is to forecast the median house value based on three independent values namely the population, median income and the number of households, the report is to design and asses three univerate linear regression models that predict median house value. We are looking to explain each independent's variables ability to explain and predict the median house value by working on a model for each. The conclusion will contain our findings and which model predict most accurately
+#### The primary goal of this report is to forecast the median house value based on three independent values namely the population, median income and the number of households, the report is to design and asses three univerate linear regression models that predict median house value. We are looking to explain each independent's variables ability to explain and predict the median house value by working on a model for each. The conclusion will contain our findings and which model predict most accurately
 
 
 ## List of Columns
@@ -30,7 +30,7 @@
 
 ## Conclusion
 
-### Considering higher income areas tend to have stronger demand for pricier properties, the median income model turned shown to be the best predictor of house prices. Although this component is less significant than income, the number of households exhibited a slight link, suggesting that locations with more households may have higher housing demand. The population model showed the lowest association, indicating that population size is a poor predictor in this context and has minimal bearing on property prices. In the end, the main variable influencing house prices is income.
+#### Considering higher income areas tend to have stronger demand for pricier properties, the median income model turned shown to be the best predictor of house prices. Although this component is less significant than income, the number of households exhibited a slight link, suggesting that locations with more households may have higher housing demand. The population model showed the lowest association, indicating that population size is a poor predictor in this context and has minimal bearing on property prices. In the end, the main variable influencing house prices is income.
 
 
 
